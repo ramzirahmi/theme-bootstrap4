@@ -1,0 +1,95 @@
+@media(max-width:576px)
+
+{
+.upper-bar .info:first-child
+	    {
+		  margin-bottom:0px
+	    }
+}
+
+
+
+@media(max-width:768px)
+
+{
+.slider .carousel-inner
+     { justify-content:left;}
+.slider .carousel-inner h1
+     { 
+     	font-size:25px;
+       max-width:100%;
+     }
+.overview
+     {
+      padding:50px
+     }
+.overview .text
+     { font-size:28px}
+.overview p
+    { 
+      font-size:15px;
+      width:100%;
+      padding:0
+     }
+.overview h4
+       {
+        font-size:20px;
+       }
+.featured-work
+  {
+    padding:40px
+  }
+
+.featured-work p
+    { 
+      font-size:15px;
+      text-align:left;
+      margin-bottom:10px
+    }
+.latest-posts
+{
+  padding:25px
+}
+.latest-posts p
+{
+	width:100%;
+	font-size:15px;
+	margin-bottom:40px
+}
+ .pricing-table
+ {
+ 	padding:25px;
+ }
+ .pricing-table p
+ {
+    width:100%;
+    font-size:15px;
+    color: #908f8f;
+ }
+ .choose-us
+ {
+ 	padding:25px
+ }
+.choose-us img
+{
+}
+ .contact-us p
+ {
+ 	margin-bottom:30px
+ }
+
+ .copyright ul li
+ {
+ 	margin-top:35px;
+ 	margin-right:30px
+ }
+ .footer
+ {
+ 	padding:30px 0
+ }
+ .footer .info span,
+ .footer h2
+ {
+ 	text-align:center;
+ }
+}
